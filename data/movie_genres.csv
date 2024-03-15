@@ -1,0 +1,201 @@
+movieId,title_only,imdbId,genres
+134130,The Martian,3659388,Adventure|Drama|Sci-Fi
+122904,Deadpool,1431045,Action|Adventure|Comedy|Sci-Fi
+122882,Mad Max: Fury Road,1392190,Action|Adventure|Sci-Fi|Thriller
+134853,Inside Out,2096673,Adventure|Animation|Children|Comedy|Drama|Fantasy
+115713,Ex Machina,470752,Drama|Sci-Fi|Thriller
+122886,Star Wars: Episode VII - The Force Awakens,2488496,Action|Adventure|Fantasy|Sci-Fi|IMAX
+164179,Arrival,2543164,Sci-Fi
+119145,Kingsman: The Secret Service,2802144,Action|Adventure|Comedy|Crime
+152081,Zootopia,2948356,Action|Adventure|Animation|Children|Comedy
+148626,"Big Short, The",1596363,Drama
+139385,The Revenant,1663202,Adventure|Drama
+122892,Avengers: Age of Ultron,2395427,Action|Adventure|Sci-Fi
+166528,Rogue One: A Star Wars Story,3748528,Action|Adventure|Fantasy|Sci-Fi
+168252,Logan,3315342,Action|Sci-Fi
+122918,Guardians of the Galaxy 2,3896198,Action|Adventure|Sci-Fi
+122922,Doctor Strange,1211837,Action|Adventure|Sci-Fi
+122912,Avengers: Infinity War - Part I,4154756,Action|Adventure|Sci-Fi
+122900,Ant-Man,478970,Action|Adventure|Sci-Fi
+128360,The Hateful Eight,3460252,Western
+122920,Captain America: Civil War,3498820,Action|Sci-Fi|Thriller
+117529,Jurassic World,369610,Action|Adventure|Drama|Sci-Fi|Thriller
+122916,Thor: Ragnarok,3501632,Action|Adventure|Sci-Fi
+142488,Spotlight,1895587,Thriller
+168250,Get Out,5052448,Horror
+176371,Blade Runner 2049,1856101,Sci-Fi
+135133,The Hunger Games: Mockingjay - Part 2,1951266,Adventure|Sci-Fi
+111781,Mission: Impossible - Rogue Nation,2381249,Action|Adventure|Thriller
+174055,Dunkirk,5013056,Action|Drama|Thriller|War
+139644,Sicario,3397884,Crime|Drama|Mystery
+187593,Deadpool 2,5463162,Action|Comedy|Sci-Fi
+135143,Fantastic Beasts and Where to Find Them,3183660,Fantasy
+122926,Untitled Spider-Man Reboot,2250912,Action|Adventure|Fantasy
+143355,Wonder Woman,451279,Action|Adventure|Fantasy
+140174,Room,3170832,Drama
+152077,10 Cloverfield Lane,1179933,Thriller
+171763,Baby Driver,3890160,Action|Crime|Thriller
+166461,Moana,3521164,Adventure|Animation|Children|Comedy|Fantasy
+143385,Bridge of Spies,3682448,Drama|Thriller
+177765,Coco,2380307,Adventure|Animation|Children
+164909,La La Land,3783958,Comedy|Drama|Romance
+177593,"Three Billboards Outside Ebbing, Missouri",5027774,Crime|Drama
+138036,The Man from U.N.C.L.E.,1638355,Action|Adventure|Comedy
+179819,Star Wars: The Last Jedi,2527336,Action|Adventure|Fantasy|Sci-Fi
+136020,Spectre,2379713,Action|Adventure|Crime
+122906,Black Panther,1825683,Action|Adventure|Sci-Fi
+158238,The Nice Guys,3799694,Crime|Mystery|Thriller
+157296,Finding Dory,2277860,Adventure|Animation|Comedy
+195159,Spider-Man: Into the Spider-Verse,4633694,Action|Adventure|Animation|Sci-Fi
+166635,Passengers,1355644,Adventure|Drama|Romance|Sci-Fi
+140110,The Intern,2361509,Comedy
+187541,Incredibles 2,3606756,Action|Adventure|Animation|Children
+133771,The Lobster,3464902,Comedy|Romance|Sci-Fi
+122924,X-Men: Apocalypse,3385516,Action|Adventure|Fantasy|Sci-Fi
+166643,Hidden Figures,4846340,Drama
+122914,Avengers: Infinity War - Part II,4154796,Action|Adventure|Sci-Fi
+135536,Suicide Squad,1386697,Action|Crime|Sci-Fi
+136864,Batman v Superman: Dawn of Justice,2975590,Action|Adventure|Fantasy|Sci-Fi
+135569,Star Trek Beyond,2660888,Action|Adventure|Sci-Fi
+163645,Hacksaw Ridge,2119532,Drama|War
+168248,John Wick: Chapter Two,4425200,Action|Crime|Thriller
+166534,Split,4972582,Drama|Horror|Thriller
+120466,Chappie,1823672,Action|Thriller
+134368,Spy,3079380,Action|Comedy|Crime
+130634,Furious 7,2820852,Action|Crime|Thriller
+159093,Now You See Me 2,3110958,Action|Comedy|Thriller
+175303,It,1396484,Horror
+135887,Minions,2293640,Adventure|Animation|Children|Comedy
+130490,Insurgent,2908446,Action|Sci-Fi|Thriller
+162606,The Accountant,2140479,Crime|Drama|Thriller
+192803,Bohemian Rhapsody,1727824,Drama
+180031,The Shape of Water,5580390,Adventure|Drama|Fantasy
+137857,The Jungle Book,3040964,Adventure|Drama|Fantasy
+183897,Isle of Dogs,5104604,Animation|Comedy
+185029,A Quiet Place,6644200,Drama|Horror|Thriller
+120799,Terminator Genisys,1340138,Action|Adventure|Sci-Fi|Thriller
+162578,Kubo and the Two Strings,4302938,Adventure|Animation|Children|Fantasy
+177615,Lady Bird,4925292,Comedy
+158966,Captain Fantastic,3553976,Drama
+194448,Green Book,6966692,Comedy|Drama
+132046,Tomorrowland,1964418,Action|Adventure|Children|Mystery|Sci-Fi
+182715,Annihilation,2798920,Adventure|Mystery|Sci-Fi|Thriller
+161582,Hell or High Water,2582782,Crime|Drama
+129354,Focus,2381941,Comedy|Crime|Drama|Romance
+113345,Jupiter Ascending,1617661,Action|Adventure|Sci-Fi
+117895,Maze Runner: Scorch Trials,4046784,Action|Thriller
+165549,Manchester by the Sea,4034228,Drama
+168612,Ghost in the Shell,1219827,Action|Drama|Sci-Fi
+160980,Sully,3263904,Drama
+179401,Jumanji: Welcome to the Jungle,2283362,Action|Adventure|Children
+140267,The Witch,4263482,Horror
+168366,Beauty and the Beast,2771200,Fantasy|Romance
+160438,Jason Bourne,4196776,Action
+149406,Kung Fu Panda 3,2267968,Action|Adventure|Animation
+146656,Creed,3076658,Drama
+163134,Your Name.,5311514,Animation|Drama|Fantasy|Romance
+169984,Alien: Covenant,2316204,Action|Horror|Sci-Fi|Thriller
+176101,Kingsman: The Golden Circle,4649466,Action|Adventure|Comedy
+152970,Hunt for the Wilderpeople,4698684,Adventure|Comedy
+165551,Lion,3741834,Drama
+187595,Solo: A Star Wars Story,3778644,Action|Adventure|Children|Sci-Fi
+188301,Ant-Man and the Wasp,5095030,Action|Adventure|Comedy|Fantasy|Sci-Fi
+127202,Me and Earl and the Dying Girl,2582496,Drama
+122896,Pirates of the Caribbean: Dead Men Tell No Tales,1790809,(no genres listed)
+189333,Mission: Impossible - Fallout,4912910,Action|Adventure|Thriller
+135861,Ted 2,2637276,Comedy
+168326,The Big Sick,5462602,Comedy|Romance
+158872,Sausage Party,1700841,Animation|Comedy
+122890,Warcraft,803096,Action|Adventure|Fantasy
+135436,The Secret Life of Pets,2709768,Animation|Comedy
+161131,War Dogs,2005151,Comedy
+134393,Trainwreck,3152624,Comedy|Romance
+133419,Pitch Perfect 2,2848292,Comedy
+142448,Everest,2719848,Adventure|Drama|Thriller
+175569,Wind River,5362988,Action|Crime|Mystery|Thriller
+162600,Miss Peregrine's Home for Peculiar Children,1935859,Fantasy
+132796,San Andreas,2126355,Action|Drama|Thriller
+122910,Captain Marvel,4154664,Action|Adventure|Sci-Fi
+173145,War for the Planet of the Apes,3450958,Action|Adventure|Drama|Sci-Fi
+143859,"Hail, Caesar!",475290,Comedy
+162350,The Magnificent Seven,2404435,Action|Western
+160080,Ghostbusters,1289401,Action|Comedy|Horror|Sci-Fi
+122902,Fantastic Four,1502712,Action|Adventure|Fantasy|Sci-Fi
+169864,Life,5442430,Horror|Sci-Fi|Thriller
+166946,The Founder,4276820,Drama
+159858,The Conjuring 2,3065204,Horror
+173291,Valerian and the City of a Thousand Planets,2239822,Action|Adventure|Sci-Fi
+142997,Hotel Transylvania 2,2510894,Animation|Comedy
+176419,Mother!,5109784,Drama|Horror|Mystery|Thriller
+160718,Piper,5613056,Animation
+140715,Straight Outta Compton,1398426,Drama
+183869,Hereditary,7784604,(no genres listed)
+183611,Game Night,2704998,Action|Comedy|Crime|Horror
+136562,Steve Jobs,2080374,Drama
+175661,The Hitman's Bodyguard,1959563,Action|Comedy
+122898,Justice League,974015,Action|Adventure|Sci-Fi
+158783,The Handmaiden,4016934,Drama|Romance|Thriller
+161634,Don't Breathe,4160708,Thriller
+135567,Independence Day: Resurgence,1628841,Action|Adventure|Sci-Fi
+134170,Kung Fury,3472226,Action|Comedy|Fantasy|Sci-Fi
+189713,BlacKkKlansman,7349662,Comedy|Crime|Drama
+130520,Home,2224026,Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi
+178061,"I, Tonya",5580036,Drama
+168254,Kong: Skull Island,3731562,Action|Adventure|Fantasy
+177763,Murder on the Orient Express,3402236,Crime|Drama|Mystery
+157699,Snowden,3774114,Drama|Thriller
+168492,Call Me by Your Name,5726616,Drama|Romance
+125916,Fifty Shades of Grey,2322441,Drama|Romance
+192389,Venom,1270797,Action|Horror|Sci-Fi|Thriller
+140247,The Gift,4178092,Drama|Horror
+180985,The Greatest Showman,1485796,Drama
+159415,Swiss Army Man,4034354,Comedy|Drama|Romance
+132480,The Age of Adaline,1655441,Drama|Fantasy|Romance
+187031,Jurassic World: Fallen Kingdom,4881806,Action|Adventure|Drama|Sci-Fi|Thriller
+127108,Brooklyn,2381111,Drama|Romance
+141866,Green Room,4062536,(no genres listed)
+170875,The Fate of the Furious,4630562,Action|Crime|Drama|Thriller
+171011,Planet Earth II,5491994,Documentary
+136018,Black Mass,1355683,Crime|Drama
+130073,Cinderella,1661199,Children|Drama|Fantasy|Romance
+152017,Me Before You,2674426,Drama|Romance
+162602,The Girl on the Train,3631112,Thriller
+162082,Train to Busan,5700672,Action|Thriller
+173941,Atomic Blonde,2406566,Thriller
+161922,The Edge of Seventeen,1878870,Comedy
+189203,Upgrade,6499752,Action|Comedy|Horror|Sci-Fi|Thriller
+192385,A Star Is Born,1517451,Drama|Romance
+143347,Aquaman,1477834,Action|Fantasy|Sci-Fi
+170697,Gifted,4481414,Drama
+120635,Taken 3,2446042,Action|Crime|Thriller
+193944,The Ballad of Buster Scruggs,6412452,Comedy|Drama|Western
+180095,Wonder,2543472,Drama
+194951,Bird Box,2737304,Drama|Sci-Fi|Thriller
+127098,Louis C.K.: Live at The Comedy Store,4368814,Comedy
+135137,Pixels,2120120,Action|Comedy|Sci-Fi
+201773,Spider-Man: Far from Home,6320628,Action|Adventure|Sci-Fi
+167036,Sing,3470600,Animation|Children|Comedy
+169530,Sing,4571288,Drama
+156387,Sing Street,3544112,Drama
+167746,The Lego Batman Movie,4116284,Action|Animation|Comedy
+133645,Carol,2402927,Drama|Romance
+180297,The Disaster Artist,3521126,Comedy|Drama
+160271,Central Intelligence,1489889,Action|Comedy
+128838,Crimson Peak,2554274,Horror
+162598,Deepwater Horizon,1860357,Drama
+189363,Ocean's 8,5164214,Action|Comedy|Crime|Thriller
+135141,Allegiant: Part 1,3410834,Adventure|Sci-Fi
+179817,Darkest Hour,4555426,Drama|War
+160954,Nerve,3531824,Drama|Thriller
+180497,The Post,6294822,Drama|Thriller
+184471,Tomb Raider,1365519,Action|Adventure|Fantasy
+131013,Get Hard,2561572,Comedy|Crime
+156609,Neighbors 2: Sorority Rising,4438848,Comedy
+136016,The Good Dinosaur,1979388,Adventure|Animation|Children|Comedy|Fantasy
+182823,Bright,5519340,Action|Crime|Fantasy
+168344,King Arthur: Legend of the Sword,1972591,Action|Adventure|Drama|Fantasy
+139642,Southpaw,1798684,Action|Drama
+176751,American Made,3532216,Crime|Thriller
+170827,The Mummy,2345759,Action|Adventure|Fantasy|Horror|Thriller
+138210,13 Hours,4172430,Drama
+180045,Molly's Game,4209788,Drama

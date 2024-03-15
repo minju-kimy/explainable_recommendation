@@ -1,0 +1,19 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+
+    <div class="form_box">
+        {% for movie in recommended_movies %}
+            <div class="movie-box">
+        {#            <div class="movie-image" style="background-image: url('../static/images/{{ movie.link_id }}.jpg')"></div>#}
+                <img src="../static/images/{{ movie.link_id }}.jpg">
+                <p>{{ movie.movie_name }}</p>
+            </div>
+        {% endfor %}
+
+        <form action="/result" method ="post">
+            <button type="submit">next</button>
+        </form>
+    </div>
+
+{% endblock %}

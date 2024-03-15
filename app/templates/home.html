@@ -1,0 +1,76 @@
+{% extends 'layout.html' %}
+{% block content %}
+    <div class="home-main">
+        <div class="description">
+
+        </div>
+
+        <div class="user-info">
+            <form method="post" action="/movie_page">
+                <div>
+                    <label for="name"> name </label>
+                    <input type="text" name="name">
+                </div>
+                <div>
+                    <label for="favorite"> favorite genre </label>
+                    <select name="favorite">
+                        <option value="Adventure">Adventure</option>
+                        <option value="Drama">Drama</option>
+                        <option value="Sci-Fi">Sci-Fi</option>
+                        <option value="Action">Action</option>
+                        <option value="Comedy">Comedy</option>
+                        <option value="Thriller">Thriller</option>
+                        <option value="Animation">Animation</option>
+                        <option value="Children">Children</option>
+                        <option value="Fantasy">Fantasy</option>
+                        <option value="IMAX">IMAX</option>
+                        <option value="Crime">Crime</option>
+                        <option value="Western">Western</option>
+                        <option value="Horror">Horror</option>
+                        <option value="War">War</option>
+                        <option value="Mystery">Mystery</option>
+                        <option value="Romance">Romance</option>
+                        <option value="Documentary">Documentary</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="dislike"> dislike genre </label>
+                    <select name="dislike">
+                        <option value="Adventure">Adventure</option>
+                        <option value="Drama">Drama</option>
+                        <option value="Sci-Fi">Sci-Fi</option>
+                        <option value="Action">Action</option>
+                        <option value="Comedy">Comedy</option>
+                        <option value="Thriller">Thriller</option>
+                        <option value="Animation">Animation</option>
+                        <option value="Children">Children</option>
+                        <option value="Fantasy">Fantasy</option>
+                        <option value="IMAX">IMAX</option>
+                        <option value="Crime">Crime</option>
+                        <option value="Western">Western</option>
+                        <option value="Horror">Horror</option>
+                        <option value="War">War</option>
+                        <option value="Mystery">Mystery</option>
+                        <option value="Romance">Romance</option>
+                        <option value="Documentary">Documentary</option>
+                    </select>
+                </div>
+                <div class="button">
+                    <button type="submit">submit</button>
+                </div>
+
+
+            </form>
+        </div>
+    </div>
+
+{#    <p>#}
+{#        {% if name == None %}#}
+{#            <h5>Please enter name</h5>#}
+{#        {% elif favorite-genre == None %}#}
+{#            <h5>Please enter favorite genre</h5>#}
+{#        {% endif %}#}
+{#    </p>#}
+
+
+{% endblock %}
